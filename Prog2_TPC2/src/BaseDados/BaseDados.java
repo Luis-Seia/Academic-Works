@@ -7,10 +7,7 @@
 *    -David Junior
 *    -Luis Seia
 *    -Tarcilenia
-*
-*@turma: LECC 21
-*
-*
+
 */
 
 
