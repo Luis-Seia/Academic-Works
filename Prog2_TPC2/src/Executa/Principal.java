@@ -9,10 +9,7 @@
 *    -Luis Seia
 *    -Tarcilenia
 *
-*@turma: LECC 21
-*
-*
-*/
+
 package Executa;
 
 import Menus.Menus;
