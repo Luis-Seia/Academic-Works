@@ -1,0 +1,8 @@
+<id2|Vasos|Marta Bowls|2|700.0|false> 
+<id1|Protese|Jewwl|2|2.0|false> 
+<id4|Vassoura|Sem Marca|2|300.0|false> 
+<id3|Camisete|Polo|2|1500.0|false> 
+<id6|Carro|Mahindra|8|1000.0|false> 
+<id22|Pente Garfo|Espentacular|3|200.0|false> 
+<id8|Mochila|HP|2|2000.0|false> 
+<id7|Bike|Nao Conheco Marcas de Bikes|5|700.0|false> 
