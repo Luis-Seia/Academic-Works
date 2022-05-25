@@ -8,10 +8,6 @@
 *    -David Junior
 *    -Luis Seia
 *    -Tarcilenia
-*
-*@turma: LECC 21
-*
-*
 */
 package Produtos;
 public class Produto {
