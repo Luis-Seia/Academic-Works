@@ -8,11 +8,8 @@
 *    -David Junior
 *    -Luis Seia
 *    -Tarcilenia
-*
-*@turma: LECC 21
-*
-*
 */
+
 package Menus;
 
 import java.util.HashMap;
@@ -103,9 +100,7 @@ public abstract class Menus {
 			System.out.println("\tEntrada inválida, insira um caracater!");
 			e.printStackTrace();
 		}
-		// finally {
-			
-		// }
+		
 	}
 
 
